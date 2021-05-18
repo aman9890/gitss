@@ -1,0 +1,28 @@
+<suite name="TestingCalculatorAPI">    //any name
+<parameter name="RequestID" value="Req125"/>
+
+     <test name="AdditionalTestCases">   //any name
+       <classes>
+          <class name="QualityKiosksTraining.CalculatorAPI.AdditionalTestCases"/>
+       </classes>
+     </test>    
+     
+
+     <test name="SubstractionTestCases">  //any name
+       <classes>
+          <class name="QualityKiosksTraining.CalculatorAPI.SubstractionTestCases"/>
+       </classes>
+     </test>  
+     
+     <test name="MultiplicationTestCases">  //any name
+       <classes>
+          <class name="QualityKiosksTraining.CalculatorAPI.MultiplicationTestCases"/>
+       </classes>
+     </test> 
+     
+     <test name="DivisionTestCases">  //any name
+       <classes>
+          <class name="QualityKiosksTraining.CalculatorAPI.DivisionTestCases"/>
+       </classes>
+     </test>   
+</suite>          

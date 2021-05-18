@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-18T15:48:59 IST" name="RegressionTesting" finished-at="2021-05-18T15:48:59 IST" duration-ms="92">
+    <groups>
+      <group name="RegressionTest">
+        <method signature="AdditionalTestCases.TestAdditionalWithOnePositiveOneNegativeNumbers()[pri:1, instance:QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases@f381794]" name="TestAdditionalWithOnePositiveOneNegativeNumbers" class="QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases"/>
+        <method signature="AdditionalTestCases.TestAdditionalWithPositiveNumbers()[pri:2, instance:QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases@f381794]" name="TestAdditionalWithPositiveNumbers" class="QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test started-at="2021-05-18T15:48:59 IST" name="AdditionalTestCases" finished-at="2021-05-18T15:48:59 IST" duration-ms="92">
+      <class name="QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases">
+        <test-method is-config="true" signature="InitGroups()[pri:0, instance:QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases@f381794]" started-at="2021-05-18T15:48:59 IST" name="InitGroups" finished-at="2021-05-18T15:48:59 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitGroups -->
+        <test-method signature="TestAdditionalWithOnePositiveOneNegativeNumbers()[pri:1, instance:QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases@f381794]" started-at="2021-05-18T15:48:59 IST" name="TestAdditionalWithOnePositiveOneNegativeNumbers" finished-at="2021-05-18T15:48:59 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAdditionalWithOnePositiveOneNegativeNumbers -->
+        <test-method signature="TestAdditionalWithPositiveNumbers()[pri:2, instance:QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases@f381794]" started-at="2021-05-18T15:48:59 IST" name="TestAdditionalWithPositiveNumbers" finished-at="2021-05-18T15:48:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAdditionalWithPositiveNumbers -->
+      </class> <!-- QualityKiosksTraining.CalculatorAPICICDDemo.AdditionalTestCases -->
+    </test> <!-- AdditionalTestCases -->
+  </suite> <!-- RegressionTesting -->
+</testng-results>
