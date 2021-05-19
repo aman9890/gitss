@@ -16,6 +16,7 @@ public class AdditionalTestCases {
 	{
 		System.out.println("Im in Before Grooup"); 
  		obj=new calculator();
+ 		System.out.println("confuse");
 	}
 	
 	@BeforeClass
@@ -28,6 +29,7 @@ public class AdditionalTestCases {
 	public void ReinitialiseResultVar(){
 		System.out.println("I am in Before Method");
 		Result=0;
+		
 	}
 	
 	@Test(priority=2,groups= {"RegressionTest"})
