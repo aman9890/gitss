@@ -15,8 +15,10 @@ public class AdditionalTestCases {
 	public void InitGroups()
 	{
 		System.out.println("Im in Before Grooup"); 
+		System.out.println("confuse");
+		
  		obj=new calculator();
- 		System.out.println("confuse");
+ 		
 	}
 	
 	@BeforeClass
@@ -57,6 +59,7 @@ public class AdditionalTestCases {
 	public void Teardown() {
 		obj=null;
 		System.out.println("hello");
+		System.out.println("confuse");
 	}
 	
 
