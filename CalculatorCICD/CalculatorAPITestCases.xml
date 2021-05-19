@@ -1,0 +1,18 @@
+<suite name="TestingCalculatorAPI">    
+<parameter name="RequestID" value="Req125"/>
+
+     <test name="AdditionalTestCases">   
+       <classes>
+          <class name="CalculatorAPICICDemo.AdditionalTestCases"/>
+       </classes>
+     </test>    
+     
+
+     <test name="SubstractionTestCases">  
+       <classes>
+          <class name="CalculatorAPICICDemo.SubstractionTestCases"/>
+       </classes>
+     </test>  
+     
+    
+</suite>          
