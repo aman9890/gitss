@@ -3,16 +3,12 @@
 
      <test name="AdditionalTestCases">   
        <classes>
-          <class name="CalculatorAPICICDemo.AdditionalTestCases"/>
+          <class name="CalculatorAPICICDDemo.AdditionalTestCases"/>
        </classes>
      </test>    
      
 
-     <test name="SubstractionTestCases">  
-       <classes>
-          <class name="CalculatorAPICICDemo.SubstractionTestCases"/>
-       </classes>
-     </test>  
+    
      
     
 </suite>          
